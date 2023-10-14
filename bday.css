@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.background{
+    width: 100%;
+    border: 5px;
+    border-radius:15px;
+    border-style:double;
+    border-color: rgb(246, 35, 246);
+    padding: 6%;
+    text-align: center;
+
+
+    
+    background-color: rgb(244, 252, 6);
+    
+}
+.border{
+    width: 84%;
+    border: 8px;
+    border-style: solid;
+    border-radius: 200px;
+    border-color: rgb(239, 11, 11);
+    padding: 6%;
+    text-align: center;
+    text-shadow:aqua;
+    text-shadow: 15px;
+    color: rgb(245, 142, 8);
+
+    
+    background-color: rgb(115, 245, 16);
+    
+}
+:hover.border{
+    color: black;
+    border-color: black;
+}
